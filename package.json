@@ -1,0 +1,26 @@
+{
+  "name": "react-switch-children",
+  "version": "1.0.0",
+  "description": "switch react children component by name",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangj/react-switch-children.git"
+  },
+  "keywords": [
+    "promise",
+    "cancelable"
+  ],
+  "author": "FangJian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangj/react-switch-children/issues"
+  },
+  "homepage": "https://github.com/fangj/react-switch-children#readme",
+  "dependencies": {
+    "pubsub-js": "^1.5.4"
+  }
+}
